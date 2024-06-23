@@ -45,4 +45,4 @@ def erode_clahe_power_log_transform(img_path, gamma=0.5):
     plt.show()
 
 # Fonksiyonu çağırma
-erode_clahe_power_log_transform("/Users/muhteber/Desktop/image/static/oldphoto/photo4.webp", gamma=0.5)
+erode_clahe_power_log_transform("/imagepath", gamma=0.5)
